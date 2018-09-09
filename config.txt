@@ -1,6 +1,6 @@
-token=YOUR BOT TOKEN HERE
-owner=YOUR OWNER ID HERE
-prefix=YOUR PREFIX HERE!!!
-game=Alpha Bots!
+token=NDg3NjgxOTk4NTA5NDQxMDI1.DnRT9g.2nOUNAchbSfdJ5ni0Ex1C7aFb38
+owner=259750207321931777
+prefix=-
+game=EmeraldTeam
 stayinchannel=true
 songinstatus=true
